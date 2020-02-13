@@ -1,0 +1,9 @@
+File Name: test1.txt
+Number of characters: 763
+Number of words: 129
+
+File Name: test1.txt
+Number of characters: 763
+Number of words: 129
+
+Both files have the same number of lines.
